@@ -1,0 +1,14 @@
+C:\Users\Terry\Documents\Bob\Bob\Api\bin\Debug\netcoreapp2.2\bob.deps.json
+C:\Users\Terry\Documents\Bob\Bob\Api\bin\Debug\netcoreapp2.2\bob.runtimeconfig.json
+C:\Users\Terry\Documents\Bob\Bob\Api\bin\Debug\netcoreapp2.2\bob.runtimeconfig.dev.json
+C:\Users\Terry\Documents\Bob\Bob\Api\bin\Debug\netcoreapp2.2\bob.dll
+C:\Users\Terry\Documents\Bob\Bob\Api\bin\Debug\netcoreapp2.2\bob.pdb
+C:\Users\Terry\Documents\Bob\Bob\Api\obj\Debug\netcoreapp2.2\bob.csprojAssemblyReference.cache
+C:\Users\Terry\Documents\Bob\Bob\Api\obj\Debug\netcoreapp2.2\bob.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Documents\Bob\Bob\Api\obj\Debug\netcoreapp2.2\bob.RazorAssemblyInfo.cache
+C:\Users\Terry\Documents\Bob\Bob\Api\obj\Debug\netcoreapp2.2\bob.RazorAssemblyInfo.cs
+C:\Users\Terry\Documents\Bob\Bob\Api\obj\Debug\netcoreapp2.2\bob.AssemblyInfoInputs.cache
+C:\Users\Terry\Documents\Bob\Bob\Api\obj\Debug\netcoreapp2.2\bob.AssemblyInfo.cs
+C:\Users\Terry\Documents\Bob\Bob\Api\obj\Debug\netcoreapp2.2\bob.RazorTargetAssemblyInfo.cache
+C:\Users\Terry\Documents\Bob\Bob\Api\obj\Debug\netcoreapp2.2\bob.dll
+C:\Users\Terry\Documents\Bob\Bob\Api\obj\Debug\netcoreapp2.2\bob.pdb

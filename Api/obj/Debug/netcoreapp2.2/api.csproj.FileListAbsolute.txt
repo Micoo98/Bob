@@ -1,0 +1,17 @@
+C:\Users\Terry\Documents\Bob\Bob\api\bin\Debug\netcoreapp2.2\api.deps.json
+C:\Users\Terry\Documents\Bob\Bob\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.json
+C:\Users\Terry\Documents\Bob\Bob\api\bin\Debug\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\Users\Terry\Documents\Bob\Bob\api\bin\Debug\netcoreapp2.2\api.dll
+C:\Users\Terry\Documents\Bob\Bob\api\bin\Debug\netcoreapp2.2\api.pdb
+C:\Users\Terry\Documents\Bob\Bob\api\obj\Debug\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\Users\Terry\Documents\Bob\Bob\api\obj\Debug\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\Users\Terry\Documents\Bob\Bob\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\Users\Terry\Documents\Bob\Bob\api\obj\Debug\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\Users\Terry\Documents\Bob\Bob\api\obj\Debug\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\Users\Terry\Documents\Bob\Bob\api\obj\Debug\netcoreapp2.2\api.AssemblyInfo.cs
+C:\Users\Terry\Documents\Bob\Bob\api\obj\Debug\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\Users\Terry\Documents\Bob\Bob\api\obj\Debug\netcoreapp2.2\api.dll
+C:\Users\Terry\Documents\Bob\Bob\api\obj\Debug\netcoreapp2.2\api.pdb
+C:\Users\Terry\Documents\Bob\Bob\Api\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Terry\Documents\Bob\Bob\Api\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Terry\Documents\Bob\Bob\Api\obj\Debug\netcoreapp2.2\Api.csproj.CopyComplete
